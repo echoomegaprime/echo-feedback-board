@@ -9,7 +9,7 @@
     "test": "tsc --noEmit && node --test tests/*.test.mjs"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20260317.1",
+    "@cloudflare/workers-types": "^5.0.0",
     "typescript": "^6.0.2",
     "wrangler": "^4.77.0"
   }
